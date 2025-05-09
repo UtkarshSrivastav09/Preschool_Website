@@ -1,5 +1,5 @@
 # Preschool_Website
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJicUe6CfT_xz6oSe4i2yB29aCujH3K48_PQ&s)
+![logo](https://github.com/UtkarshSrivastav09/Preschool_Website/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Utkarsh Srivastav</h1>
 <h3 align="center">I'm Pursuing From Bachelor of Computer Applications</h3>
 
