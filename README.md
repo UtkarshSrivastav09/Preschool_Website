@@ -1,6 +1,6 @@
 # Preschool_Website
 ![logo](https://github.com/UtkarshSrivastav09/Preschool_Website/blob/main/github-header-image.png)
-<br>http://127.0.0.1:5500/index.html
+<br>
 <h1 align="center">Hi 👋, I'm Utkarsh Srivastav</h1>
 <h3 align="center">I'm Pursuing From Bachelor of Computer Applications</h3>
 
